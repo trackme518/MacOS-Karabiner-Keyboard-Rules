@@ -148,3 +148,25 @@
     ]
 }
 
+## @ At
+{
+    "description": "@ at",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "v",
+                "modifiers": {
+                    "mandatory": ["right_option"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "2",
+                    "modifiers": ["right_option"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
