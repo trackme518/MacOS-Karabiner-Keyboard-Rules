@@ -126,6 +126,7 @@
 ```
 
 ## Hashtag
+```
 {
     "description": "# hashtag",
     "manipulators": [
@@ -147,8 +148,10 @@
         }
     ]
 }
+```
 
 ## @ At
+```
 {
     "description": "@ at",
     "manipulators": [
@@ -170,3 +173,4 @@
         }
     ]
 }
+```
