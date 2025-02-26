@@ -1,5 +1,5 @@
 # MacOS Karabiner Keyboard Rules
- Rules for Karabiner on MacOS to behave as PC Czech Keyboard
+ Rules for Karabiner on MacOS to behave as PC Czech Keyboard mainly for programming. 
 
 
 ## Semicolon
