@@ -1,4 +1,4 @@
-# MacOS Karabiner Keyboard Rules
+# MacOS Karabiner Keyboard Rules CZ
  Rules for Karabiner on MacOS to behave as PC Czech Keyboard mainly for programming. 
 
 
