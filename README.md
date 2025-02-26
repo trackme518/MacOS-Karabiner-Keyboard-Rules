@@ -124,3 +124,27 @@
     ]
 }
 ```
+
+## Hashtag
+{
+    "description": "# hashtag",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "x",
+                "modifiers": {
+                    "mandatory": ["right_option"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "3",
+                    "modifiers": ["left_option"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
+
