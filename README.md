@@ -174,3 +174,28 @@
     ]
 }
 ```
+
+## & And
+```
+{
+    "description": "& and",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "c",
+                "modifiers": {
+                    "mandatory": ["right_option"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "7",
+                    "modifiers": ["right_option"]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
+```
